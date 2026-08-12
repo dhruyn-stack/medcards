@@ -1,0 +1,5 @@
+front,back,subject,topic,tags
+"Which cells secrete glucagon?","Alpha cells of the islets of Langerhans, peripherally located.",Anatomy,Diabetes Mellitus,Endocrine
+"Glucagon raises blood glucose mainly by {{c1::glycogenolysis}} and {{c2::gluconeogenesis}} in the liver.","Acts via Gs -> cAMP -> PKA.",Physiology,Diabetes Mellitus,Endocrine;High yield
+"Most common cause of death in diabetes mellitus?","Myocardial infarction / macrovascular disease.",Pathology,Diabetes Mellitus,Endocrine
+"Sulfonylureas act by closing {{c1::ATP-sensitive K+ channels}} on the beta cell membrane.","Main adverse effects: hypoglycaemia and weight gain.",Pharmacology,Diabetes Mellitus,Endocrine
